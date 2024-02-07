@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Experienced front-end developer proficient in modern web technologies, including HTML5, CSS3, and JavaScript. Skilled in creating responsive and visually appealing user interfaces, with a focus on accessibility and performance optimization. Strong knowledge of frameworks like React & Next.js, coupled with expertise in version control systems such as Git."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "API Integration",
+      "description": "Proficient in handling data retrieval, manipulation, and display with precision and efficiency. Capable of ensuring smooth communication between frontend components and backend services, leveraging React's state management and asynchronous handling capabilities to create dynamic and responsive user experiences."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Figa Design To Website",
+      "description": "Proficient in translating Figma designs into pixel-perfect websites, ensuring fidelity to the original design while optimizing for responsiveness and cross-browser compatibility. Expertise in utilizing HTML, CSS, and JavaScript to bring designs to life, delivering visually stunning and user-friendly web experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Webflow Development streamlines website creation for front-end developers, offering a visual interface and powerful customization options. With drag-and-drop functionality, it accelerates the design process, enabling rapid prototyping and deployment of responsive websites."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/p1.png",
+      "title": "Admin Panels",
+      "description": "Manging all the website from this admin panel and creating new websites and pages. Managing all the members and stats.",
+      "link": "View",
+      "navigate": "https://admindev.dynamitelifestyle.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/client.png",
+      "title": "Client Portal",
+      "description": "Client Portal",
+      "link": "View",
+      "navigate": "https://thesourcedev.dynamitelifestyle.com/"
+    },
+    {
+      "id": "3",
+      "src": "./img/w-22.png",
+      "title": "Website",
+      "description": "Website using next.js",
+      "link": "View",
+      "navigate": "https://sourcedev.dynamitelifestyle.com/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "He is a motivated and focused person deliever work with complete proficiency. Complete admin panel API's integrated.",
+      "author_name": "Dianne Russel"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Focused and excellent work in his field",
+      "author_name": "Kristin Watson"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Quality work with clean code and good communicator with detailed document work.",
+      "author_name": "Kathryn Murphy"
+    }
+  ]
+}
